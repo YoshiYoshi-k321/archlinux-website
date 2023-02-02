@@ -1,0 +1,32 @@
+body {
+    background-color: #EEE;
+}
+#container {
+    background-color: pink;
+    width: 1280; height: 720;
+    margin-left: auto;
+    margin-right: auto;
+font-family: sans-serif
+
+}
+
+#distro {
+    float: left;
+    font-family: sans-serif
+		 color: white;
+
+}
+
+#header {
+    background-color: #66CCFF;
+    color: white;
+    text-align: center;
+font-family: sans-serif
+
+}
+#foot {
+    clear: both;
+    font-family: sans-serif
+		 color:white;
+
+}
